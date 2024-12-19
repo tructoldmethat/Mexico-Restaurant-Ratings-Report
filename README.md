@@ -14,7 +14,7 @@ The report uses ratings from 138 consumers and 130 restaurants across Tamaulipas
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/tructoldmethat/Mexico-Restaurant-Ratings-Report/blob/main/restaurant_ratings.sql).
 
-An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/RestaurantRatingsinMexico/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+An interactive Tableau dashboard used to visualize customer demographics and restaurant attributes can be found [here](https://public.tableau.com/views/RestaurantRatingsinMexico/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
