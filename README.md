@@ -1,4 +1,6 @@
-# Restaurant Ratings in Mexico by Real Consumers (2012)
+# Restaurant Ratings in Mexico (2012)
+
+![Tableau Dashboard 2](images/Tableau%20Dashboard%202.png)
 
 ## Project Background
 As a Data Analyst for GustoRatings, a consultancy agency dedicated to providing restaurant analyses for the F&B industry, I was tasked with developing an analysis on restaurant ratings in Mexico for investors planning to open restaurants in the region. 
@@ -10,19 +12,23 @@ The report uses ratings from 138 consumers and 130 restaurants across Tamaulipas
 3. **Successful Restaurant Attributes:** Which attributes—such as pricing, transportation access, or amenities—drive customer satisfaction?
 4. **Supply & Demand:** Where are the gaps between customer demand and restaurant supply in the target markets?
 
-- The SQL queries used to inspect and clean the data for this analysis can be found [here](#).
-- An interactive Tableau dashboard used to report and explore sales trends can be found [here](#).
+- The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/tructoldmethat/Mexico-Restaurant-Ratings-Report/blob/main/restaurant_ratings.sql).
+- An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/RestaurantRatingsinMexico/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
 ## Data Structure & Initial Checks
-The database consists of five tables with the following descriptions:
+The database consists of 5 tables with the following descriptions:
 
 - **Ratings:** 1,162 rows, each containing the overall rating, food rating, and service rating of a consumer for a restaurant.
 - **Consumers:** 139 rows, detailing consumer demographics such as age, marital status, location, smoking and alcohol preferences, and transportation methods.
 - **Consumer Preferences:** 331 rows, listing preferred cuisines for each consumer.
 - **Restaurants:** 131 rows, detailing restaurant attributes like location, price, franchise status, area, parking availability, alcohol service, and smoking allowance.
 - **Restaurant Cuisines:** 131 rows, specifying cuisine types offered by restaurants.
+
+![Tables Relationship](images/Tables%20Relationship.png)
+
+  
 
 ---
 
@@ -106,26 +112,19 @@ The analysis revealed that **Mexican cuisine** dominates consumer preferences, w
 ## Recommendations
 
 1. **Target Medium-Budget Consumers:**
-   - Focus on mid-range pricing strategies to attract students and young professionals.
+   -  Restaurants with medium-priced offerings receive the highest ratings from the majority of consumers. Investors can consider focusing on mid-range pricing strategies to attract students and young professionals, who make up a significant portion of the customer base. 
 
 2. **Diversify Mexican Cuisine:**
-   - Offer unique twists or regional specialties to stand out in a saturated market.
+   - Mexican cuisine is highly popular, but the market is saturated. Investors should consider offering unique twists, regional specialties or creating a unique concept to stand out while maintaining a focus on quality and affordability.
 
 3. **Improve Fast Food and Pizzerias:**
-   - Enhance service quality and consistency in these popular but underperforming segments.
+   - These business models attract a substantial customer base but tend to receive lower ratings. Improving service quality and consistency in these segments could unlock growth opportunities and increase customer loyalty.
 
 4. **Expand High-Priced Dining:**
-   - Introduce premium seafood and contemporary dining experiences to meet untapped demand.
+   - Tap into gaps in High-Priced Dining as high-priced restaurants have lower customer volumes, particularly in Morelos and Tamaulipas. Introducing premium dining experiences with an emphasis on quality and exclusivity could attract high-budget customers willing to spend more. Particularly, investors can expand Seafood and Contemporary Dining Options. Seafood restaurants, despite their niche presence, receive the highest average ratings. Expanding this segment, especially in underserved areas, could meet untapped demand. Similarly, contemporary cuisine could cater to younger, urban consumers looking for innovative dining experiences. 
 
 5. **Enhance Accessibility and Amenities:**
-   - Invest in parking facilities and alcohol services to cater to key demographics.
-  
-Target Medium-Budget Consumers: Restaurants with medium-priced offerings receive the highest ratings from the majority of consumers. Investors can consider focusing on mid-range pricing strategies to attract students and young professionals, who make up a significant portion of the customer base. In terms of cuisine, investors can:
-Offer Mexican Cuisine with Differentiation: Mexican cuisine is highly popular, but the market is saturated. Investors should consider offering unique twists, regional specialties or creating a unique concept to stand out while maintaining a focus on quality and affordability.
-Enhance Customer Experience for Fast Food and Pizzerias: These business models attract a substantial customer base but tend to receive lower ratings. Improving service quality and consistency in these segments could unlock growth opportunities and increase customer loyalty.
-Tap into gaps in High-Priced Dining as high-priced restaurants have lower customer volumes, particularly in Morelos and Tamaulipas. Introducing premium dining experiences with an emphasis on quality and exclusivity could attract high-budget customers willing to spend more. Particularly, investors can expand Seafood and Contemporary Dining Options. Seafood restaurants, despite their niche presence, receive the highest average ratings. Expanding this segment, especially in underserved areas, could meet untapped demand. Similarly, contemporary cuisine could cater to younger, urban consumers looking for innovative dining experiences. 
-Improve Accessibility and Amenities: Lack of parking is a common pain point for customers, particularly in suburban and high-density areas. Restaurants with ample parking tend to perform better. Additionally, providing amenities like outdoor seating and alcohol services can increase customer satisfaction, especially among social and casual drinkers.
-
+   - Lack of parking is a common pain point for customers, particularly in suburban and high-density areas. Restaurants with ample parking tend to perform better. Additionally, providing amenities like outdoor seating and alcohol services can increase customer satisfaction, especially among social and casual drinkers.
 
 ---
 
