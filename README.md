@@ -1,10 +1,5 @@
 # Restaurant Ratings in Mexico by Real Consumers (2012)
 
-## Data Source
-Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, as well as each consumer and their preferences.
-
----
-
 ## Project Background
 As a Data Analyst for GustoRatings, a consultancy agency dedicated to providing restaurant analyses for the F&B industry, I was tasked with developing an analysis on restaurant ratings in Mexico for investors planning to open restaurants in the region. 
 
