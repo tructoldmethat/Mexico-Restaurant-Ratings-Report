@@ -1,4 +1,4 @@
-# Restaurant Ratings in Mexico (2012)
+# Restaurant Ratings in Mexico
 
 ![Tableau Dashboard 2](images/Tableau%20Dashboard%202.png)
 
@@ -12,8 +12,9 @@ The report uses ratings from 138 consumers and 130 restaurants across Tamaulipas
 3. **Successful Restaurant Attributes:** Which attributes—such as pricing, transportation access, or amenities—drive customer satisfaction?
 4. **Supply & Demand:** Where are the gaps between customer demand and restaurant supply in the target markets?
 
-- The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/tructoldmethat/Mexico-Restaurant-Ratings-Report/blob/main/restaurant_ratings.sql).
-- An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/RestaurantRatingsinMexico/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/tructoldmethat/Mexico-Restaurant-Ratings-Report/blob/main/restaurant_ratings.sql).
+
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/views/RestaurantRatingsinMexico/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
@@ -35,11 +36,13 @@ The database consists of 5 tables with the following descriptions:
 ## Executive Summary
 
 ### Overview of Findings
-The analysis revealed that **Mexican cuisine** dominates consumer preferences, with affordability and casual dining being key factors driving popularity. However, oversaturation in Mexican cuisine highlights opportunities in niche options like seafood. Younger consumers (ages 21–25) represent the largest demographic, favoring restaurants offering alcohol and social spaces. Significant opportunities exist in addressing unmet demand for diverse cuisines and improved parking facilities across Tamaulipas, San Luis Potosi, and Morelos.
+The analysis revealed that Mexican cuisine dominates consumer preferences, with affordability and casual dining being key factors driving popularity. However, oversaturation in Mexican cuisine highlights opportunities in niche options like seafood. Younger consumers (ages 21–25) represent the largest demographic, favoring restaurants offering alcohol and social spaces. Significant opportunities exist in addressing unmet demand for diverse cuisines and improved parking facilities across Tamaulipas, San Luis Potosi, and Morelos.
 
 ---
 
 ## Insights Deep Dive
+
+![Tableau Dashboard 1](images/Tableau%20Dashboard%201.png)
 
 ### 1. Customer Demographics
 
