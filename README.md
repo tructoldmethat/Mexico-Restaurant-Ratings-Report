@@ -58,7 +58,7 @@ The analysis revealed that Mexican cuisine dominates consumer preferences, with 
   - Most consumers use public transportation (**59.42%**), followed by cars (**25.36%**) and walking (**10.14%**).
 
 - **Smoking and Drinking Habits:**
-  - Non-smokers form the majority (**78.99%**), while **two-thirds** of consumers drink alcohol, showing stronger demand for alcohol services than smoking spaces.
+  - Non-smokers take up the majority (**78.99%**), while **two-thirds** of consumers drink alcohol, showing stronger demand for alcohol services than smoking spaces.
 
 ---
 
@@ -69,11 +69,14 @@ The analysis revealed that Mexican cuisine dominates consumer preferences, with 
   - Four of the top 10 highest-rated restaurants offer Mexican cuisine, appreciated by consumers aged 18–20 and 26–30.
 
 - **Seafood:**
-  - A niche market but highly rated (average **1.69**).
-  - Examples: Mariscos El Pescador and Mariscos Tía Licha stand out for their quality.
+  - A niche market but highly rated (average **1.69**) with consistent food and service quality. 
+  - Seafood and family-style restaurants receive the highest overall ratings despite catering to niche markets. Restaurants like Mariscos El Pescador and Mariscos Tía Licha, offering premium seafood, stand out with average ratings above 1.60, demonstrating success in meeting quality expectations.
+
 
 - **Cafeterias and Coffee Shops:**
   - Dominate the mid-tier segment, catering to budget-conscious students and young professionals.
+  - Cafeteria Y Restaurante El Pacífico, for example, scored high in both affordability and service quality and was appreciated across all age groups, especially 26-30, reflecting a successful low-cost business model.
+
 
 - **Fast Food and Pizzerias:**
   - Popular but receive lower ratings (e.g., Pizzerias: **1.16**), indicating a need for service improvements.
