@@ -49,7 +49,8 @@ The analysis revealed that Mexican cuisine dominates consumer preferences, with 
 - **Age and Preferences:**
   - **73.19%** of consumers are aged 21–25, drawn toward casual dining with low to medium price points.
   - Nearly **63%** are social or casual drinkers and the majority are non-smokers, favoring cuisines like Mexican, Pizzeria, American, and coffee shops.
-![Customer Demoraphics](images/Customer%20Demographics.png) 
+    
+![Customer Demoraphics](images/Customers%20Demographics.png) 
 
 - **Occupation and Budget:**
   - Students account for **81.88%** of customers, while only **11.59%** are employed.
