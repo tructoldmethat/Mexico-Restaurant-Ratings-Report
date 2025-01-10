@@ -48,8 +48,8 @@ The analysis revealed that Mexican cuisine dominates consumer preferences, with 
 
 - **Age and Preferences:**
   - **73.19%** of consumers are aged 21–25, drawn toward casual dining with low to medium price points.
- ![Age Group](images/Age Group Pie Chart.png)
   - Nearly **63%** are social or casual drinkers, favoring cuisines like Mexican, Pizzeria, American, and coffee shops.
+![Age Group](images/Age%20Group%20Pie%20Chart.png) ![Age Group](images/Drinker%20Pie%20Chart.png)
 
 - **Occupation and Budget:**
   - Students account for **81.88%** of customers, while only **11.59%** are employed.
