@@ -1,6 +1,6 @@
 # Restaurant Ratings in Mexico
 
-![Tableau Dashboard 2](images/Tableau%20Dashboard%202.png)
+![Tableau Dashboard 2](images/mexico_dashboard.png)
 
 ## Project Background
 As a Data Analyst for GustoRatings, a consultancy agency dedicated to providing restaurant analyses for the F&B industry, I was tasked with developing an analysis on restaurant ratings in Mexico for investors planning to open restaurants in the region. 
