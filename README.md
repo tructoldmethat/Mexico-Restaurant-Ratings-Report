@@ -42,7 +42,7 @@ The analysis revealed that Mexican cuisine dominates consumer preferences, with 
 
 ## Insights Deep Dive
 
-![Tableau Dashboard 1](images/Tableau%20Dashboard%201.png)
+![Tableau Dashboard 2](images/mexico_dashboard_2.png)
 
 ### 1. Customer Demographics
 
